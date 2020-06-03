@@ -5,4 +5,4 @@ createn branch qa and am putting this here
 pushing this
 code examples
 firname, last,name
-closes #3
+Now this will close #6
